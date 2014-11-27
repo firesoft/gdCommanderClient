@@ -1,0 +1,11 @@
+{
+	"name": "gdCommanderClient",
+	"description": "GD-Commander client library.",
+	"version": "0.0.1",
+	"private": true,
+	"main": "index.js",
+	"dependencies": {
+		"lodash": "2.4.x",
+		"async": "0.9.x"
+	}
+}
